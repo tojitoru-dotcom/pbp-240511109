@@ -15,5 +15,5 @@
 ## 4. Referensi
 
 1. Android Developers. Dasar-dasar aplikasi Android. https://developer.android.com/guide/components/fundamentals?hl=id
-2. Kementerian Komunikasi dan Digital Republik Indonesia. Peraturan Menteri Komunikasi dan Digital Nomor 6 Tahun 2025 tentang Standar Teknis dan Prosedur Pembangunan dan Pengembangan Aplikasi Sistem Pemerintahan Berbasis Elektronik. https://peraturan.bpk.go.id/Details/317343/permenkomdigi-no-6-tahun-2025
+2. Android Developers — Dasar-dasar aplikasi.Mendukung pembahasan bahasa pemrograman Android, komponen aplikasi, izin perangkat, dan distribusi melalui Google Play.https://developer.android.com/guide/components/fundamentals?hl=id 
 3. MDN Web Docs. Panduan Web (tersedia dalam berbagai bahasa). https://developer.mozilla.org/id/docs/Learn
