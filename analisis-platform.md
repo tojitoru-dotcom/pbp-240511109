@@ -1,7 +1,7 @@
 
 # Analisis Komparatif Platform
 
-## 1. Perbandingan Platform
+## Perbandingan Platform
 
 | Aspek | Web | Desktop | Mobile |
 |---|---|---|---|
@@ -12,7 +12,7 @@
 | Keterbatasan | Beberapa fitur bergantung pada browser dan koneksi internet | Perlu menyesuaikan aplikasi dengan sistem operasi yang digunakan | Perlu menyesuaikan aplikasi dengan ukuran layar dan kemampuan perangkat |
 | Contoh aplikasi | Gmail versi web dan Google Docs versi web | Visual Studio Code dan Microsoft Word versi desktop | WhatsApp dan Google Maps |
 
-## 4. Referensi
+## Referensi
 
 1. Android Developers. Dasar-dasar aplikasi Android. https://developer.android.com/guide/components/fundamentals?hl=id
 2. Android Developers — Dasar-dasar aplikasi.Mendukung pembahasan bahasa pemrograman Android, komponen aplikasi, izin perangkat, dan distribusi melalui Google Play.https://developer.android.com/guide/components/fundamentals?hl=id 
